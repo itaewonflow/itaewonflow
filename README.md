@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @itaewonflow
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-itaewonflow/itaewonflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in AI. DeepLearning and ML
+- 🌱 I’m currently learning everythong about IT
+- 💞️ I’m looking to collaborate on everyone. you..
+- 📫 How to reach me - leejwwin@gmail.com
